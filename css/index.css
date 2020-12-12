@@ -195,12 +195,19 @@ a.nav-link:active
     margin-top:15px;
     justify-content:space-around;
 }
-.strategy-how {
+.section1 {
     margin-bottom: 20px;
+    padding-bottom:20px;
+    border-bottom:1px dashed black;
 }
 .text-row1 {
     display:flex;
-    justify-content:space-between;
+    justify-content:space-around;
+}
+.buttons1 {
+    display:flex;
+    justify-content:space-around;
+    align-items:left;
 }
 
 
