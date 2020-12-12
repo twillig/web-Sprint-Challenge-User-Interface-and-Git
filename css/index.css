@@ -50,13 +50,6 @@ table {
 * {
     box-sizing: border-box;
 }
-.logobar {
-    display:flex;
-    justify-content: center;
-    justify-content: space-between;
-    margin: 30px; 
-}
-
 html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
@@ -75,6 +68,18 @@ p {
 .container {
     width: 800px;
     margin: 0 auto;
+}
+.logobar {
+    display:flex;
+    justify-content: space-between;
+    margin: 30px; 
+}
+.hero-image {
+    display:flex;
+    height:200px;
+    width:77%;
+    padding-bottom: 15px;
+    
 }
 
 .top-content {
