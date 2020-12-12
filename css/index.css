@@ -181,6 +181,9 @@ a.nav-link:active
 #box10 {
     background:dodgerblue;
 }
+.interior {
+    margin:20px;
+}
 .about-info {
     margin-bottom:20px;
     padding-bottom:20px;
@@ -207,9 +210,10 @@ a.nav-link:active
 .buttons1 {
     display:flex;
     justify-content:space-around;
-    align-items:left;
 }
-
+.outro {
+    margin-bottom: 20px;
+}
 
 
 
