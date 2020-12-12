@@ -184,32 +184,38 @@ a.nav-link:active
 .interior {
     margin:20px;
 }
-.about-info {
-    margin-bottom:20px;
-    padding-bottom:20px;
-    border-bottom:1px dashed black;
-}
-.image-row1 {
-    display:flex;
-    justify-content:space-between;
-}
-.head-row1 {
-    display:flex;
-    margin-top:15px;
-    justify-content:space-around;
-}
 .section1 {
     margin-bottom: 20px;
     padding-bottom:20px;
     border-bottom:1px dashed black;
+}  
+.about-info {
+    margin-bottom:20px;
+    padding-bottom:20px;
+    border-bottom:1px dashed black;
+    
+}
+.image-row1 {
+    display:flex;
+    justify-content:space-between;
+    padding-top:10px;
+}
+.head-row1 {
+    display:flex;
+    margin-top:15px;
+    justify-content:space-between;
+    padding-left:5px;
+    padding-right:34%;
 }
 .text-row1 {
     display:flex;
-    justify-content:space-around;
+    justify-content:space-between;
+    padding-left:13px
 }
 .buttons1 {
     display:flex;
-    justify-content:space-around;
+    justify-content:space-between;
+    margin-top: 20px;
 }
 .outro {
     margin-bottom: 20px;
