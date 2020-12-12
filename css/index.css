@@ -50,6 +50,12 @@ table {
 * {
     box-sizing: border-box;
 }
+.logobar {
+    display:flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 30px; 
+}
 
 html, body {
     height: 100%;
