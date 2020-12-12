@@ -192,7 +192,11 @@ a.nav-link:active
 }
 .head-row1 {
     display:flex;
-    justify-content:space-between;
+    margin-top:15px;
+    justify-content:space-around;
+}
+.strategy-how {
+    margin-bottom: 20px;
 }
 .text-row1 {
     display:flex;
