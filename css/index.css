@@ -181,7 +181,11 @@ a.nav-link:active
 #box10 {
     background:dodgerblue;
 }
-
+.about-info {
+    margin-bottom:20px;
+    padding-bottom:20px;
+    border-bottom:1px dashed black;
+}
 
 
 
